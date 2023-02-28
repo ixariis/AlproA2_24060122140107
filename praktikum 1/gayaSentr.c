@@ -1,4 +1,13 @@
+/*
+Nama Program  : gayaSentr.c
+Deskripsi     : Menghitung dan menampilkan gaya sentripetal yang dialami oleh benda dengan rumus F = m *(v*v/r)
+Nama Pembuat  : Surya Fajar
+NIM           : 24060122140107
+Tanggal       : Kamis, 23 Februari 2023 20:49 WIB
+*/
+#include<stdio.h>
 
+#include<stdio.h>
 
 
 
