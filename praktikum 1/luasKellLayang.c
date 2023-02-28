@@ -1,3 +1,17 @@
+/*
+Nama Program  : luasKellLayang.c
+Deskripsi     : Menghitung dan menampilkan luas dan keliling bangun ruang layang - layang, rumus luas layang - layang = 1/2 * d1 * d2, rumus keliling layang - layang = 2 * (s1 + s2)
+Nama Pembuat  : Surya Fajar
+NIM           : 24060122140107
+Tanggal       : Kamis, 23 Februari 2023 21:17 WIB
+*/
+
+#include<stdio.h>
+#include<stdlib.h>
+
+
+
+
 int main()
 {
     //Kamus
