@@ -1,3 +1,14 @@
+/*
+Nama Program  : jarakPBola.c
+Deskripsi     : Menghitung dan menampilkan jarak yang ditempuh oleh suatu benda ketika mengalami gerak parabola dengan rumus y = v0 * t - ½ * (g * t2)
+Nama Pembuat  : Surya Fajar
+NIM           : 24060122140107
+Tanggal       : Selasa, 21 Februari 2023 21:25 WIB
+*/
+#include<stdio.h>
+#include<stdlib.h>
+
+
 int main()
 {
     //Kamus Lokal
