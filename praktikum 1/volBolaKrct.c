@@ -1,4 +1,13 @@
+/*
+Nama Program  : volBolaKerct.c
+Deskripsi     : Menghitung dan menampilkan volume bola dan kerucut. Rumus volume bola = Vb= 4/3 * (Phi * r*r*r), rumus volume kerucut = Vk = (Vb/2)
+Nama Pembuat  : Surya Fajar
+NIM           : 24060122140107
+Tanggal       : Kamis, 23 Februari 2023 21:10 WIB
+*/
 
+#include<stdio.h>
+#include<stdlib.h>
 
 
 int main ()
